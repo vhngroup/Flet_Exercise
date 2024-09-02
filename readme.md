@@ -17,12 +17,17 @@ Uso de grillas o cuadriculas en una app para colocar notar y recordatorios.
 | Imagen Ejemplo 1       | Imagen Ejemplo 2       |
 | :------------------------:|:------------------------:|
 | ![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Biblioteca1.png)|![Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Biblioteca2.png)|
-
-Uso de barras tanto horizontal como vertical, agregamos nuestros libros los guardamos y los mostramos en un listado en otra pestaña y pódemos agregar favoritos
+Creamos un proyecto en el cual usamos diferentes formas de posicionar un sidebar, usamos pestañas, iconos y actualizamos una lista de libros, de acuerdo a la cantidad de libros que agreguemos.
+Agregamos nuestros libros los guardamos y los mostramos en un listado en otra pestaña y pódemos agregar favoritos
 * Ejecutar el archivo ```Library.py``` en la carpeta Biblioteca_Digital
 
 
-
+### Proyecto 5: Perfil de Usuario. ###
+| Imagen Ejemplo 1       | Imagen Ejemplo        |
+| :------------------------:|:------------------------:|
+| ![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/ConfiguradordePerfil.png)|![Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/ConfiguradordePerfil1.png)|
+Usamos el evento ```òn-change``` para actualizar una ventana de previsualizacion de texto, de acuerdo a los valores ingresados. Tambien permitirmo al usuario realizar cambios de modo oscuro a modo convencional en la interfaz.
+* Ejecutar el archivo ```ConfiguradorPerfil.py``` en la carpeta ConfiguradorDePerfil
 
 ## Como ejecutar
 * Instalar el entorno virtual venv
