@@ -23,7 +23,7 @@ Agregamos nuestros libros los guardamos y los mostramos en un listado en otra pe
 
 
 ### Proyecto 5: Perfil de Usuario. ###
-| Imagen Ejemplo 1       | Imagen Ejemplo 2       |
+| Imagen Ejemplo 1          | Imagen Ejemplo 2         |
 | :------------------------:|:------------------------:|
 | ![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/ConfiguradordePerfil2.png)|![Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/ConfiguradordePerfil1.png)|
 Usamos el evento ```òn-change``` para actualizar una ventana de previsualizacion de texto, de acuerdo a los valores ingresados. Tambien permitirmo al usuario realizar cambios de modo oscuro a modo convencional en la interfaz.
