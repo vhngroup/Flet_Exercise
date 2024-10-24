@@ -37,4 +37,6 @@ La palabra predeterminada es "Desmayado", pero se puede modificar creando un pro
 * Instalar las dependencias del archivo requirements.txt
 * Ejecutar el programa que sea de su interes.
 ## Creditos
-Este Ejercicio fue realizado en base al canal: https://www.youtube.com/@CodigoEspinoza
+[canal @PildorasDeProgramacion](https://www.youtube.com/@pildorasdeprogramacion) 
+[canal @CodigoEspinoza](https://www.youtube.com/@CodigoEspinoza)
+Creditos y agradecimientos a sus autores.
