@@ -6,7 +6,7 @@ El proyecto se localiza en la carpeta ```Tableros```.
 |![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Filas_y_Columnas.png)|![Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/lista_De_Mercado.png)|![Imagen3](https://github.com/vhngroup/Flet_Exercise/blob/main/static/DashBoard.png)|
 | * Ejecutar el archivo ```Columns_and_Rowss.py```          |* Ejecutar el archivo ```ListView.py```         |* Ejecutar el archivo ```DashBoard.py```         |
 
-### Proyecto 4: Biblioteca de Libros. ###
+### Proyecto 2: Biblioteca de Libros. ###
 | Imagen Ejemplo 1       | Imagen Ejemplo 2       |
 | :------------------------:|:------------------------:|
 | ![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Biblioteca1.png)|![Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Biblioteca2.png)|
@@ -16,13 +16,21 @@ Agregamos nuestros libros los guardamos y los mostramos en un listado en otra pe
 * Ejecutar el archivo ```Library.py``` en la carpeta Biblioteca_Digital
 
 
-### Proyecto 5: Perfil de Usuario. ###
+### Proyecto 3: Perfil de Usuario. ###
 | Imagen Ejemplo 1          | Imagen Ejemplo 2         |
 | :------------------------:|:------------------------:|
 | ![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/ConfiguradordePerfil2.png)|![Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/ConfiguradordePerfil1.png)|
 
 Usamos el evento ```òn-change``` para actualizar una ventana de previsualizacion de texto, de acuerdo a los valores ingresados. Tambien permitirmo al usuario realizar cambios de modo oscuro a modo convencional en la interfaz.
 * Ejecutar el archivo ```ConfiguradorPerfil.py``` en la carpeta ConfiguradorDePerfil
+
+### Proyecto 4: Recreamos el juego el Ahorcado ###
+| Jugando          | Jugador Gano         | Jugador Perdio          |
+| :------------------------:|:------------------------:|:------------------------:|
+|![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Ahoracdo1.png)|![Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Ahoracdo2.png)|![Imagen3](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Ahoracdo3.png)|
+
+La palabra predeterminada es "Desmayado", pero se puede modificar creando un prompt o arrays de palabra a adivinar.
+* Ejecutar el archivo ```main``` en la carpeta Ahorcado_Game
 
 ## Como ejecutar
 * Instalar el entorno virtual venv
