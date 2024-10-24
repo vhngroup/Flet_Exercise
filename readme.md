@@ -25,7 +25,7 @@ Usamos el evento ```òn-change``` para actualizar una ventana de previsualizacio
 * Ejecutar el archivo ```ConfiguradorPerfil.py``` en la carpeta ConfiguradorDePerfil
 
 ### Proyecto 4: Recreamos el juego el Ahorcado ###
-| Jugando          | Jugador Gano         | Jugador Perdio          |
+| Jugando          | Jugador Perdio         | Jugador Gano          |
 | :------------------------:|:------------------------:|:------------------------:|
 |![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Ahoracdo1.png)|![Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Ahoracdo2.png)|![Imagen3](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Ahoracdo3.png)|
 
