@@ -3,9 +3,9 @@ En este proyectos se muestran 3 ejemplos de uso de flet para crear grids, tablas
 El proyecto se localiza en la carpeta ```Tableros```.
 | Ejemplo Filas y Columnas          | Lista de Mercado         | Tablero de Notas         |
 | :------------------------:|:------------------------:|:------------------------:|
-| ![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Filas_y_Columnas.png)
+|![Imagen1](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Filas_y_Columnas.png)
 |! [Imagen2](https://github.com/vhngroup/Flet_Exercise/blob/main/static/lista_De_Mercado.png)
-|! [Imagen3](https://github.com/vhngroup/Flet_Exercise/blob/main/static/DashBoard.png)
+|! [Imagen3](https://github.com/vhngroup/Flet_Exercise/blob/main/static/DashBoard.png)|
 
 
 ![Ejemplo](https://github.com/vhngroup/Flet_Exercise/blob/main/static/Filas_y_Columnas.png)
